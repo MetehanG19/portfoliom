@@ -72,7 +72,7 @@ function Projects() {
                title=""
                description="."
                ghLink=""
-               demoLink="" <--------Please include a demo link here
+               demoLink="" 
             />
           </Col>
 
