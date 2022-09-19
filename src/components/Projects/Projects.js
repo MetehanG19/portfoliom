@@ -58,7 +58,7 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="AI"
+              title=""
               description=""
               // ghLink=""
               demoLink=""
