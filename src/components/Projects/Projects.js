@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title=""
               description=""
-              ghLink=""
+             // ghLink=""
              // demoLink="https://chatify-49.web.app/"
             />
           </Col>
@@ -36,9 +36,9 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
+              title=""
               description=""
-              ghLink=""
+              // ghLink=""
              // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
@@ -47,9 +47,9 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
+              title=""
               description=""
-              ghLink=""
+              // ghLink=""
               demoLink=""              
             />
           </Col>
@@ -58,9 +58,9 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Plant AI"
+              title="AI"
               description=""
-              ghLink=""
+              // ghLink=""
               demoLink=""
             />
           </Col>
@@ -71,7 +71,7 @@ function Projects() {
                isBlog={false}
                title=""
                description="."
-               ghLink=""
+               // ghLink=""
                demoLink="" 
             />
           </Col>
@@ -82,7 +82,7 @@ function Projects() {
                isBlog={false}
               title=""
                description=""
-               ghLink=""
+               // ghLink=""
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
